@@ -1,12 +1,17 @@
 # Aora
-
+## Tech Stack
+- React Native
+- Expo
+- Nativewind
+- Animatable
+- Appwrite
 ## Screens
-- ![Welcome Screen](./assets/screens/welcome.PNG)
-- ![Sign In Screen](./assets/screens/signIn.PNG)
-- ![Sign Up Screen](./assets/screens/signUp.PNG)
-- ![Home Screen](./assets/screens/home.PNG)
-- ![Create Screen](./assets/screens/create.PNG)
-- ![Profile Screen](./assets/screens/profile.PNG)
+![Welcome Screen](./assets/screens/welcome.PNG)
+![Sign In Screen](./assets/screens/signIn.PNG)
+![Sign Up Screen](./assets/screens/signUp.PNG)
+![Home Screen](./assets/screens/home.PNG)
+![Create Screen](./assets/screens/create.PNG)
+![Profile Screen](./assets/screens/profile.PNG)
 
 ## Features
 
